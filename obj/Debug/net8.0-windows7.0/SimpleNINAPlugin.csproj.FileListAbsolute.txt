@@ -1,0 +1,12 @@
+C:\Users\Trinh Tien\source\repos\SimpleNINAPlugin\bin\Debug\net8.0-windows7.0\SimpleNINAPlugin.deps.json
+C:\Users\Trinh Tien\source\repos\SimpleNINAPlugin\bin\Debug\net8.0-windows7.0\SimpleNINAPlugin.runtimeconfig.json
+C:\Users\Trinh Tien\source\repos\SimpleNINAPlugin\bin\Debug\net8.0-windows7.0\SimpleNINAPlugin.dll
+C:\Users\Trinh Tien\source\repos\SimpleNINAPlugin\bin\Debug\net8.0-windows7.0\SimpleNINAPlugin.pdb
+C:\Users\Trinh Tien\source\repos\SimpleNINAPlugin\obj\Debug\net8.0-windows7.0\SimpleNINAPlugin.csproj.AssemblyReference.cache
+C:\Users\Trinh Tien\source\repos\SimpleNINAPlugin\obj\Debug\net8.0-windows7.0\SimpleNINAPlugin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Trinh Tien\source\repos\SimpleNINAPlugin\obj\Debug\net8.0-windows7.0\SimpleNINAPlugin.csproj.CoreCompileInputs.cache
+C:\Users\Trinh Tien\source\repos\SimpleNINAPlugin\obj\Debug\net8.0-windows7.0\SimpleNINAPlugin.dll
+C:\Users\Trinh Tien\source\repos\SimpleNINAPlugin\obj\Debug\net8.0-windows7.0\refint\SimpleNINAPlugin.dll
+C:\Users\Trinh Tien\source\repos\SimpleNINAPlugin\obj\Debug\net8.0-windows7.0\SimpleNINAPlugin.pdb
+C:\Users\Trinh Tien\source\repos\SimpleNINAPlugin\obj\Debug\net8.0-windows7.0\SimpleNINAPlugin.genruntimeconfig.cache
+C:\Users\Trinh Tien\source\repos\SimpleNINAPlugin\obj\Debug\net8.0-windows7.0\ref\SimpleNINAPlugin.dll
